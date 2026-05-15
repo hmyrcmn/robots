@@ -1,0 +1,3 @@
+min_voltage: 10.0
+max_current: 20.0
+temperature_limit: 80.0
